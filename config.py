@@ -11,7 +11,6 @@ ROOT_MODEL = "ollama_chat/qwen2.5:7b-instruct"
 WEATHER_AGENT_MODEL = "ollama_chat/llama3.1:latest"
 TIME_AGENT_MODEL = "ollama_chat/llama3.1:latest"
 CITY_AGENT_MODEL = "ollama_chat/llama3.1:latest"
-VISION_AGENT_MODEL = "ollama_chat/llava:latest"
 
 # Scholarship pipeline model (lightweight)
 SCHOLARSHIP_PIPELINE_MODEL = "ollama_chat/llama3.1:latest"

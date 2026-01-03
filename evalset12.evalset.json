@@ -1,0 +1,20 @@
+{
+  "eval_set_id": "evalset12",
+  "name": "evalset12",
+  "eval_cases": [
+    {
+      "eval_id": "casef7cbe5",
+      "conversation": [],
+      "session_input": {
+        "app_name": "salah_agent",
+        "user_id": "user",
+        "state": {
+          "scholarship_results": "",
+          "ranked_scholarships": ""
+        }
+      },
+      "creation_timestamp": 1766158650.2993157
+    }
+  ],
+  "creation_timestamp": 1766158644.975779
+}
